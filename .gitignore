@@ -1,6 +1,6 @@
 /lib
 /session-*
-
+ta_*.js
 # Logs
 logs
 *.log
