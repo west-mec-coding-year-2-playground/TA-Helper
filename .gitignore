@@ -1,3 +1,6 @@
+/lib
+/session-*
+
 # Logs
 logs
 *.log
