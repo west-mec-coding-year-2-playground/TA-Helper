@@ -7,7 +7,7 @@
   },
   "devDependencies": {
     "grunt": "^1.0.1",
-    "gulp": "^3.9.0",
+    "gulp": "^4.0.2",
     "gulp-a11y": "^0.1.2",
     "gulp-accessibility": "^3.0.1",
     "gulp-beautify": "^2.0.0",
